@@ -1,0 +1,7 @@
+Q1. WAP to search those words which will start from vowel 
+and end with z or x or t.
+With File handling and without.
+Q2. WAP to find two words "study" "experience" from existing file.
+With file handling.
+Q3. WAP to select only those words having a and i.
+With and without file handling.

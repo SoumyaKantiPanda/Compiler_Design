@@ -1,0 +1,9 @@
+1. WAP using file handling to identify whether given identifier is valid or not.
+
+2. WAP to count repeated words using file handling.
+
+3. WAP in C using file handling to read any existing C 
+program and check either that program
+ have conditional statement or not.
+
+4. WAP to check looping statement.

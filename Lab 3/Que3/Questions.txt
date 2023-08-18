@@ -1,0 +1,6 @@
+Que. 1. WAP to find number of comment lines from text file as well as in programs file using file handling and 
+without file handling.
+Que. 2. WAP to select only those words as well as lines in which words start from vowel and end with consonent.
+With and without file handling.
+Que. 3. WAP to display those words having some digits(more than one).
+With and without file handling.
